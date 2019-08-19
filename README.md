@@ -11,10 +11,10 @@ ArtSource is an artificial intelligence project that pursues the classification 
   - Moving forward in the challenge of computational creativity
   
 ## Experiments and their results
-Our project went through 5 main experiments. Their accuracy results were the following:
+Our project went through 4 main experiments. Their accuracy results were the following:
 
   - Gaussian filtering, resize and flattening: 20% on test with Random Forest
-  - Bag of words with keypoints: 20% on test with SVM
+  - Bag of words with keypoints and parameter adjusting with Gridsearch: 20% on test with SVM
   - Deep features of ResNet50's fully connected layers: 61% on test
   - Transfer learning and layer freezing with MobileNet: 88% on test
   
