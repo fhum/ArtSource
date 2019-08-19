@@ -18,4 +18,7 @@ Our project went through 4 main experiments. Their accuracy results were the fol
   - Deep features of ResNet50's fully connected layers: 61% on test
   - Transfer learning and layer freezing with MobileNet: 88% on test
   
+## Dataset
+The dataset used in this project can be found in: https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset
+  
   
