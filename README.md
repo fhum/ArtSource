@@ -1,4 +1,6 @@
 # ArtSource
+<img src="logo.png" style="width:1000px;">
+
 ## Overview
 ArtSource is an artificial intelligence project that pursues the classification of art paintings by their art movement. We used several classifying methods to ensure the task, and we found the best approach to be a transfer learning one. We also made use of open source libraries such as Tensorflow and Keras, and wrote our code in Jupyter Notebooks.
 
